@@ -5,8 +5,8 @@
 %global crate termios
 
 Name:           rust-%{crate}
-Version:        0.3.1
-Release:        8%{?dist}
+Version:        0.3.3
+Release:        1%{?dist}
 Summary:        Safe bindings for the termios library
 
 # Upstream license specification: MIT
